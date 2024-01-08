@@ -15,20 +15,28 @@
   
   nav {
     padding: 30px;
+  
   }
   
   nav a {
     font-weight: bold;
     color: #2c3e50;
+    
+
   }
   
-  nav a.router-link-exact-active {
-    color: #42b983;
-  }
+  /* nav a.router-link-exact-active {
+    color: #647578;
+    text-align: right;
+   
+  } */
  img[alt='logo']{
     width: 5rem;
     aspect-ratio: 1/1;
  }
-
+.navbar{
+  background: #647578;
+  color: white;
+}
 
   

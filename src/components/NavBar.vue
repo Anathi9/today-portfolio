@@ -1,41 +1,38 @@
 <template>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <nav class="navbar navbar-expand">
   <div class="container-fluid">
     <RouterLink to="/">
-     <img class="img-fluid " src="https://drive.google.com/file/d/189VV73Wbv_tOr1NOcJdZMR0WeR0AQFqI/view?usp=drive_link" alt="logo" loading="lazy">
+     <img class="img-fluid" src="">
     </RouterLink>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <RouterLink to="/" class="nav-link active">
+          <RouterLink to="/" class="nav-link active text-white">
            Home
           </RouterLink>
         </li>
         <li class="nav-item">
-          <RouterLink class="nav-link active" to="/about">
+          <RouterLink class="nav-link active text-white" to="/about">
             About
           </RouterLink>
         </li>
         <li class="nav-item">
-          <RouterLink class="nav-link active" to="/resume">
+          <RouterLink class="nav-link active text-white" to="/resume">
             Resume
           </RouterLink>
         </li>
         <li class="nav-item">
-          <RouterLink class="nav-link active" to="/project">
+          <RouterLink class="nav-link active text-white" to="/project">
             Projects
           </RouterLink>
         </li>
         <li class="nav-item">
-          <RouterLink class="nav-link active" to="/testimonials">
+          <RouterLink class="nav-link active text-white" to="/testimonials">
             Testimonials
           </RouterLink>
         </li>
         <li class="nav-item">
-          <RouterLink class="nav-link active" to="/contact">
+          <RouterLink class="nav-link active text-white" to="/contact">
             Contacts
           </RouterLink>
         </li>
