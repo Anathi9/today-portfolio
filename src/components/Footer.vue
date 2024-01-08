@@ -1,7 +1,7 @@
 <template>
     <div class="container">
         <div class="row">
-            <p class="lead">Anathi's portfolio &copy;
+            <p class="lead">Anathi&copy;
             <span>{{ currentYear }}</span>
             </p>
 
