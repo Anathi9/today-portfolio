@@ -1,5 +1,5 @@
 <template>
-    <div class="container">
+    <div class="container" id="bgc">
        <div class="row">
 <h2>Testimonials</h2>
        </div>

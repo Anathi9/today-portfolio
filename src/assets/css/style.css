@@ -34,9 +34,12 @@
     width: 5rem;
     aspect-ratio: 1/1;
  }
-.navbar{
+.navbar, .footer{
   background: #647578;
   color: white;
 }
+#img1{
+  border: 4px;
+  border-radius: 10rem;
 
-  
+}

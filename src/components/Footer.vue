@@ -1,7 +1,7 @@
 <template>
-    <div class="container">
+    <div class="footer container-">
         <div class="row">
-            <p class="lead">Anathi&copy;
+            <p class="lead">Anathi Josefu &copy;
             <span>{{ currentYear }}</span>
             </p>
 

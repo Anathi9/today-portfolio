@@ -1,5 +1,5 @@
 <template>
-    <div class="container">
+    <div class="container" id="bgc">
        <div class="row">
 <h2 >Contact</h2>
        </div>
